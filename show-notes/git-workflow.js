@@ -1,0 +1,14 @@
+/* Review of the Git Workflow
+
+
+When creating a new project best practise is to create a 
+README.md file where all your project details will be stored.
+
+This is stored in the root and is writen is markdown language.
+
+Once pushed into the repostitory github will convert it into
+html automatically and use it as the main description for the
+entire project.
+
+
+*/

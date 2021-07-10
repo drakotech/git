@@ -1,0 +1,8 @@
+/* Overview of Git Pull
+
+Git pull is the function that can pull down the latest version
+of the application from the remote repository. Especially handy
+if you are working in collaboration with a team and need to
+update your local repository with their changes.
+
+*/

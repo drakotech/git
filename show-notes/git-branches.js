@@ -1,0 +1,13 @@
+/* Introduction to Git Branches
+
+It is possible to create feature branches where we can break
+the entire code base out and work on a feature. This way the
+main code base is still operational for others to work on while
+you can focus on building out a feature on a separate feature
+branch.
+
+Once the feature branch is completed you can then merge it to
+the master branch repo so that everyone else can have access 
+to them.
+
+*/
