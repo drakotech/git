@@ -43,6 +43,5 @@ git stash apply
 
 git stash clear
   Empties out the stash.
-//
 
 */
